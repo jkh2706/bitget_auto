@@ -1,0 +1,2 @@
+# bitget_auto
+test
